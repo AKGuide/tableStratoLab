@@ -7,3 +7,5 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 library.add(require('@fortawesome/free-solid-svg-icons/faUser').definition);
 library.add(require('@fortawesome/pro-solid-svg-icons/faLockAlt').definition);
 library.add(require('@fortawesome/pro-regular-svg-icons/faSpinnerThird').definition);
+library.add(require('@fortawesome/free-solid-svg-icons/faTrash').definition);
+library.add(require('@fortawesome/free-solid-svg-icons/faPen').definition);

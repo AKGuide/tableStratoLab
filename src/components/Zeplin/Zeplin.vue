@@ -2,16 +2,14 @@
     <div class="viewedoptions">
         <div class="texthead">ПОДКЛЮЧАЕМЫЕ ОПЦИИ ПЛЕЕРА |</div>
         <div class="checkbox">Селектор</div>
-        <select-player></select-player>
     </div>
 </template>
 
 <script>
-    import SelectPlayer from "../Muvis/select-player";
-    export default {
-        name: 'Zeplin',
-        components: {SelectPlayer},
-    }
+// import SelectPlayer from "../Muvis/select-player";
+export default {
+  name: 'Zeplin',
+};
 </script>
 
 <style lang="scss">
